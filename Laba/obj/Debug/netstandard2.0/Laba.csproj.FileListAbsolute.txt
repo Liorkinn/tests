@@ -1,0 +1,9 @@
+C:\Users\Liora\source\repos\Laba\Laba\bin\Debug\netstandard2.0\Laba.deps.json
+C:\Users\Liora\source\repos\Laba\Laba\bin\Debug\netstandard2.0\Laba.dll
+C:\Users\Liora\source\repos\Laba\Laba\bin\Debug\netstandard2.0\Laba.pdb
+C:\Users\Liora\source\repos\Laba\Laba\obj\Debug\netstandard2.0\Laba.csprojAssemblyReference.cache
+C:\Users\Liora\source\repos\Laba\Laba\obj\Debug\netstandard2.0\Laba.AssemblyInfoInputs.cache
+C:\Users\Liora\source\repos\Laba\Laba\obj\Debug\netstandard2.0\Laba.AssemblyInfo.cs
+C:\Users\Liora\source\repos\Laba\Laba\obj\Debug\netstandard2.0\Laba.csproj.CoreCompileInputs.cache
+C:\Users\Liora\source\repos\Laba\Laba\obj\Debug\netstandard2.0\Laba.dll
+C:\Users\Liora\source\repos\Laba\Laba\obj\Debug\netstandard2.0\Laba.pdb

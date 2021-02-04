@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5X9iD30pTeY22ntqPUM8HU4VGABq32XFzyjfeaFcJ1fXiFQ07Fe9K6dwecc49+/4DgWvYsNI+eQBMY4TulNDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Liora\\source\\repos\\Laba\\Laba\\Laba.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Liora\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Liora\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
