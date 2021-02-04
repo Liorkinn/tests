@@ -139,8 +139,8 @@ namespace UnitTestProject1
             
         }
 
-       
-            [TestMethod]
+        //IsInstanceOfType
+        [TestMethod]
             public void TestMethod10()
             {
                 int kekww = 727;
@@ -150,6 +150,7 @@ namespace UnitTestProject1
                 Assert.IsInstanceOfType(F.Rui(kekww), typeof(int));
             }
 
+        //IsNotInstanceOfType
         [TestMethod]
         public void TestMethod11()
         {
@@ -158,6 +159,37 @@ namespace UnitTestProject1
             Liora.Animal F = new Liora.Animal();
 
             Assert.IsNotInstanceOfType(F.Rui(kekww), typeof(float));
+        }
+        //Inconclusive
+        [TestMethod]
+             
+        public void TestMethod12()
+        {
+            try
+            {
+                try
+                {
+                    string rofl = "1234567";
+                    string owo = "1234567";
+                    Liora.Animal gg = new Liora.Animal();
+
+                    if (rofl.Length > 6)
+                    {
+                        string act = gg.kekw(rofl, owo);
+                        Assert.Inconclusive();
+                    }
+                }
+                catch
+                {
+                    Console.WriteLine("Возникло исключение");
+                    throw;
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
         }
     }
 }
